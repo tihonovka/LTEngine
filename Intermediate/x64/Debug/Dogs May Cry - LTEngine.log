@@ -1,0 +1,7 @@
+﻿  Win32Window.cpp
+C:\Users\Tihike\Desktop\LTengine\Dogs May Cry - LTEngine\LTEngine\Source\LTEngine\Window\Win32\Win32Window.cpp(11,3): error C2660: 'PostQuitMessage': function does not take 0 arguments
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(4172,1):
+      see declaration of 'PostQuitMessage'
+      C:\Users\Tihike\Desktop\LTengine\Dogs May Cry - LTEngine\LTEngine\Source\LTEngine\Window\Win32\Win32Window.cpp(11,3):
+      while trying to match the argument list '()'
+  

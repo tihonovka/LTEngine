@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tihike\\desktop\\ltengine\\dogs may cry - ltengine\\game\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\tihike\\desktop\\ltengine\\dogs may cry - ltengine\\ltengine\\include\\ltengine\\window\\all.h",
+            "c:\\users\\tihike\\desktop\\ltengine\\dogs may cry - ltengine\\ltengine\\include\\ltengine\\game\\game.h",
+            "c:\\users\\tihike\\desktop\\ltengine\\dogs may cry - ltengine\\ltengine\\include\\ltengine\\core\\base.h",
+            "c:\\users\\tihike\\desktop\\ltengine\\dogs may cry - ltengine\\ltengine\\include\\ltengine\\core\\core.h",
+            "c:\\users\\tihike\\desktop\\ltengine\\dogs may cry - ltengine\\ltengine\\include\\ltengine\\window\\window.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
